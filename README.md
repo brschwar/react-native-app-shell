@@ -1,2 +1,2 @@
-# react-native-app-shell
-based on create react native app
+# React Native App Shell
+Based on create react native app
